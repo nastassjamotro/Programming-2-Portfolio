@@ -3,8 +3,9 @@
 ### Contact Info-email: [nastassjamotro7@gmail.com](mailto:nastassjamotro7@gmail.com)
 ### Skyline High School
 
-# Click on one of the pictures in order to find out more about that program
+## Click on one of the pictures in order to find out more about that program
 
+-----
 ## PacMan Game
 [![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/PacMan.png "PacMan Game")](https://nastassjamotro.github.io/Programming-2-Portfolio/PacMan)
 
