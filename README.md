@@ -4,7 +4,7 @@
 ### Skyline High School
 
 ## PacMan Game
-[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/PacMan.png "PacMan Game")](https://natassjamotro.github.io/Programming-2-Portfolio/PacMan)
+[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/PacMan.png "PacMan Game")](https://nastassjamotro.github.io/Programming-2-Portfolio/PacMan)
 
 -----
 ## Tanker Calculator
@@ -19,7 +19,7 @@
 -----
 
 ## Birthday Bar Graphs
-[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/BarGraphs.png)](https://natassjamotro.github.io/Programming-2-Portfolio/BarGraph)
+[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/BarGraphs.png)](https://nastassjamotro.github.io/Programming-2-Portfolio/BarGraph)
 
 -----
 
