@@ -20,7 +20,7 @@
 
 -----
 ## Birthday Bar Graphs
-[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/BarGraphs.png)](https://nastassjamotro.github.io/Programming-2-Portfolio/BarGraph)
+[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/BarGraphs.png "Birthday Bar Graphs")](https://nastassjamotro.github.io/Programming-2-Portfolio/BarGraph)
 
 -----
 
