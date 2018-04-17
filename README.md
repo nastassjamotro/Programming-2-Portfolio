@@ -8,21 +8,20 @@
 
 -----
 ## Tanker Calculator
-
-((insert crap here))
+[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/TankCalc.png "Tanker Calculator")](https://nastassjamotro.github.io/Programming-2-Portfolio/TankerCalc)
 
 -----
 ## isLeapYear
-
-((insert crap here))
+[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/isLeapYear.png "Leap Year")](https://nastassjamotro.github.io/Programming-2-Portfolio/isLeapYear)
 
 -----
+## KeyMap
+[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/KeyMap.png "KeyMap")](https://nastassjamotro.github.io/Programming-2-Portfolio/KeyMap)
 
+-----
 ## Birthday Bar Graphs
 [![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/BarGraphs.png)](https://nastassjamotro.github.io/Programming-2-Portfolio/BarGraph)
 
 -----
-
-##
 
 
