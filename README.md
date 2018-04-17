@@ -8,7 +8,7 @@
 
 -----
 ## Tanker Calculator
-[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/TankCalc.png "Tanker Calculator")](https://nastassjamotro.github.io/Programming-2-Portfolio/TankerCalc)
+[![Alt text](https://nastassjamotro.github.io/Programming-2-Portfolio/img/TankerCalc.png "Tanker Calculator")](https://nastassjamotro.github.io/Programming-2-Portfolio/TankerCalc)
 
 -----
 ## isLeapYear
