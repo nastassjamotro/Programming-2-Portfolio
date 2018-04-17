@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Programming 2 Portfolio 2017 - 2018
+## Nastassja Motro
+### Contact Info-email: nastassjamotro7@gmail.com
+### Skyline High School
+#### To View The Website: (insert link here)
 
 You can use the [editor on GitHub](https://github.com/nastassjamotro/Programming-2-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
