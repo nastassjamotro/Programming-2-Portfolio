@@ -4,8 +4,7 @@
 ### Skyline High School
 
 ## PacMan Game
-[![Alt text](https://github.com/nastassjamotro/Programming-2-Portfolio/blob/master/img/PacMan.png "PacMan Game")]
-(https://natassjamotro.github.io/Programming-2-Portfolio/PacMan)
+[![Alt text](https://github.com/nastassjamotro/Programming-2-Portfolio/blob/master/img/PacMan.png "PacMan Game")](https://natassjamotro.github.io/Programming-2-Portfolio/PacMan)
 
 -----
 ## Tanker Calculator
